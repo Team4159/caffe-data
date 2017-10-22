@@ -1,0 +1,26 @@
+<annotation>
+  <folder>batch1</folder>
+  <filename>IMG_27</filename>
+  <path>/home/edmond/Desktop/caffe/data/VOCdevkit_STEAMWORKS/STEAMWORKS/JPEGImages/IMG_27.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gear</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>160</xmin>
+      <ymin>0</ymin>
+      <xmax>688</xmax>
+      <ymax>1628</ymax>
+    </bndbox>
+  </object>
+</annotation>
