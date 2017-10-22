@@ -1,0 +1,15 @@
+ml/JPEGImages/IMG_8.jpg ml/Annotations/IMG_8.xml
+ml/JPEGImages/IMG_32.jpg ml/Annotations/IMG_32.xml
+ml/JPEGImages/IMG_21.jpg ml/Annotations/IMG_21.xml
+ml/JPEGImages/IMG_6.jpg ml/Annotations/IMG_6.xml
+ml/JPEGImages/IMG_2.jpg ml/Annotations/IMG_2.xml
+ml/JPEGImages/IMG_35.jpg ml/Annotations/IMG_35.xml
+ml/JPEGImages/IMG_19.jpg ml/Annotations/IMG_19.xml
+ml/JPEGImages/IMG_9.jpg ml/Annotations/IMG_9.xml
+ml/JPEGImages/IMG_22.jpg ml/Annotations/IMG_22.xml
+ml/JPEGImages/IMG_39.jpg ml/Annotations/IMG_39.xml
+ml/JPEGImages/IMG_42.jpg ml/Annotations/IMG_42.xml
+ml/JPEGImages/IMG_30.jpg ml/Annotations/IMG_30.xml
+ml/JPEGImages/IMG_13.jpg ml/Annotations/IMG_13.xml
+ml/JPEGImages/IMG_34.jpg ml/Annotations/IMG_34.xml
+
