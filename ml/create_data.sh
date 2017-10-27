@@ -4,7 +4,7 @@ root_dir=$cur_dir/../..
 cd $root_dir
 
 redo=1
-data_root_dir="$CAFFE_ROOT/data/VOCdevkit_STEAMWORKS"
+data_root_dir="$HOME/data/caffe-data/"
 dataset_name="ml"
 mapfile="$root_dir/data/$dataset_name/labelmap_voc.prototxt"
 anno_type="detection"
