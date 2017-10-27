@@ -6,7 +6,7 @@ and prints the annotation file name with the corresponding image file name
 into trainval.txt and test.txt.
 """
 
-HOME = '/home/edmond'
+HOME = os.getenv('HOME')
 DATASET = 'ml'
 base = HOME + '/data/caffe-data/'
 TEST_FILE = 'test.txt'
