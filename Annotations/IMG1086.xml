@@ -1,7 +1,7 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>IMG0900.jpg</filename>
-	<path>/home/edmond/data/caffe-data/JPEGImages/IMG0900.jpg</path>
+	<filename>IMG1086.jpg</filename>
+	<path>/home/edmond/data/caffe-data/JPEGImages/IMG1086.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -15,24 +15,24 @@
 		<name>gear</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>73</xmin>
-			<ymin>345</ymin>
-			<xmax>99</xmax>
-			<ymax>396</ymax>
+			<xmin>302</xmin>
+			<ymin>279</ymin>
+			<xmax>336</xmax>
+			<ymax>332</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>gear</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>1</difficult>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>170</xmin>
-			<ymin>346</ymin>
-			<xmax>194</xmax>
-			<ymax>392</ymax>
+			<xmin>402</xmin>
+			<ymin>292</ymin>
+			<xmax>435</xmax>
+			<ymax>346</ymax>
 		</bndbox>
 	</object>
 </annotation>
