@@ -11,7 +11,9 @@ Clone this repository in ~/caffe-data/ml (create if it doesn't exist or clone to
 ## Adding new data
 You may add new data in an OS other than Ubuntu and you don't have to setup anything. To add new data, add the image to JPEGImages, then use [LabelImg](https://github.com/tzutalin/labelImg) to create the annotation files. You may install LabelImg directly in Windows, OS X, or Ubuntu. 
 
-When you open LabelImg, you need to open the image directory, then annotation files will be saved in the correct place and annotations that exist for a image will be displayed. Press w to use the bounding box tool then create one over the reflective tape objects (see other images for examples of how to do this). Check the difficult box if something such as the center pipe is obstructing a tape object. Press Ctrl-S to save the annotation  - if you go to another image without doing this then you have to start over for the previous image again!
+When you open LabelImg for the first time you need to set the save directory to avoid a prompt when saving an annotation file. Everytime you launch LabelImg, you need to open the image directory, then annotation files will be saved in the correct place and annotations that exist for a image will be displayed. The file list at the bottom right will be populated so you can double click to open another image. 
+
+Press w to use the bounding box tool then create one over the reflective tape objects (see other images for examples of how to do this). Check the difficult box if something such as the center pipe is obstructing a tape object. Press Ctrl-S to save the annotation  - if you go to another image without doing this then you have to start over for the previous image again!
 
 Currently the image path for all annotation refer to a static directory, this is not needed for creating the custom dataset, if it is, it will be changed to Team4159.
 
