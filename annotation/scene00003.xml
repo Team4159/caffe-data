@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resizedImages</folder>
+	<filename>scene00003.jpg</filename>
+	<path>C:\AndrewSue\Robotics programming\caffe-data\resizedImages\scene00003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>38</ymin>
+			<xmax>75</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>36</ymin>
+			<xmax>98</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>
