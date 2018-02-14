@@ -8,3 +8,8 @@ item {
   label: 1
   display_name: "switch"
 }
+item {
+  name: "cube"
+  label: 2
+  display_name: "cube"
+}
