@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resizedImages</folder>
-	<filename>scene00001.jpg</filename>
-	<path>C:\AndrewSue\Robotics programming\caffe-data\resizedImages\scene00001.jpg</path>
+	<filename>scene00291.jpg</filename>
+	<path>C:\Users\Emily\Documents\Robotics\caffe-data\resizedImages\scene00291.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>63</xmin>
-			<ymin>38</ymin>
-			<xmax>77</xmax>
-			<ymax>106</ymax>
+			<xmin>75</xmin>
+			<ymin>41</ymin>
+			<xmax>85</xmax>
+			<ymax>103</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>85</xmin>
-			<ymin>36</ymin>
-			<xmax>99</xmax>
-			<ymax>105</ymax>
+			<xmin>95</xmin>
+			<ymin>40</ymin>
+			<xmax>107</xmax>
+			<ymax>103</ymax>
 		</bndbox>
 	</object>
 </annotation>
