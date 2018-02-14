@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resizedImages</folder>
+	<filename>scene00185.jpg</filename>
+	<path>C:\Robotics\caffe-data\resizedImages\scene00185.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>13</ymin>
+			<xmax>192</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>
