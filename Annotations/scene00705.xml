@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resizedImages</folder>
-	<filename>scene00901.jpg</filename>
-	<path>C:\Users\Emily\Documents\Robotics\caffe-data\resizedImages\scene00901.jpg</path>
+	<filename>scene00705.jpg</filename>
+	<path>C:\AndrewSue\RoboticsProgramming\caffe-data\resizedImages\scene00705.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,25 +14,25 @@
 	<object>
 		<name>switch</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>177</xmin>
-			<ymin>1</ymin>
-			<xmax>189</xmax>
-			<ymax>36</ymax>
+			<xmin>165</xmin>
+			<ymin>17</ymin>
+			<xmax>172</xmax>
+			<ymax>51</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>switch</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
-			<ymin>1</ymin>
-			<xmax>199</xmax>
-			<ymax>36</ymax>
+			<xmin>177</xmin>
+			<ymin>16</ymin>
+			<xmax>184</xmax>
+			<ymax>51</ymax>
 		</bndbox>
 	</object>
 </annotation>
